@@ -30,8 +30,3 @@ build/
 ### VS Code ###
 .vscode/
 
-/aleEpsLogs/
-/combinationFile/
-/commonFile/
-/privateFile/
-/romUploadFile/
